@@ -6,7 +6,7 @@ body {
 		Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
 		sans-serif;
 	background-color: var(--black40);
-	color: white;
+	color: #fff;
 	overflow-x: hidden;
 }
 
@@ -101,7 +101,7 @@ button {
 		color-scheme: dark;
 	}
 	body {
-		color: white;
-		background: black;
+		color: #fff;
+		background: #000;
 	}
 }
